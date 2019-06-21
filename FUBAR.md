@@ -14,3 +14,8 @@
 ## bob and carol
 * this is what bob and carol did on bobs computer.
 * JOkes:  you shouldn't trust atoms.  they make up everything. 
+
+## bob and alice
+* this is what bob and alice did on bobs computer.
+* do you know any jokes about sodium?
+* Na.
