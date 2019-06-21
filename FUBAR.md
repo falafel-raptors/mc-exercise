@@ -8,5 +8,9 @@
 ## Ted and Alice
 * This is the ted and alice branch and here is what we did.
 * Jokes
-  * Jack is not funny. end of line.
+  * mean.
   * If you're cold you should go to the corner because it is always 90 degrees. BOOM.
+
+## bob and carol
+* this is what bob and carol did on bobs computer.
+* JOkes:  you shouldn't trust atoms.  they make up everything. 
