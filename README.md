@@ -31,8 +31,16 @@ It's time to get them sorted out.
 
 ---
 
-How could these problems have been prevented?
-
+# How could these problems have been prevented?
 Review the workflow on Bob & Carol & Ted & Alice and try to identify all of the individual things that they did wrong **AND** all of the things that they should have done but failed to do. Write up descriptions of those things and put those into the README of the repo.
 
+* Bob and Carol didn't work in his own branch and didn't pull from master when he started working.
+* Ted and Alice in the end worked in master branch, and forgot to pull from master the changes from the pull request that they just accepted and merged.
+
+# Things they should have done
+* Not work on the same file at the same time.
+* Pull from master to get the most up-to-date code.
+* Work in separate branches so that reviews can be made without affecting the master.
+
 For today's lab assignment in Canvas, submit your individual thoughts on this exercise and what you learned from it. 2-3 sentences is minimally adequate.
+
